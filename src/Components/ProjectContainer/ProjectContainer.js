@@ -28,7 +28,7 @@ const ProjectContainer = () => {
     <Element className="projectContainer" id="projects">
       <h1>Projects</h1>
       <p>
-        Here some projects which I done using HTMl, CSS, JAVASCRIPT, REACTJS,
+        Here some projects which I done using HTML, CSS, JAVASCRIPT, REACTJS,
         NODEJS, EXPRESS, MONGODB.
       </p>
       <div className="projectContainer__projects">

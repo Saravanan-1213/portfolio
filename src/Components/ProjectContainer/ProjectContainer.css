@@ -23,5 +23,7 @@
     width: 43vw;
     margin-top: 50px;
     flex-wrap: wrap;
+    align-items: center;
+    margin-left: 200px;
 
 }

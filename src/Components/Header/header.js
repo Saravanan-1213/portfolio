@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header">
       <div className="header__left">
         <h1>
-          Develop<span>er</span>
+          Web Develop<span>er</span>
         </h1>
       </div>
       <div className="header__right">
@@ -26,7 +26,10 @@ const Header = () => {
         <Link to="contact" smooth={true} duration={500}>
           <h4>Contact</h4>
         </Link>
-        <h4 className="header__rightButton">Join with Me</h4>
+
+        <a href="https://www.linkedin.com/in/saravanan-s-03622222a">
+          <h4 className="header__rightButton">Join with Me </h4>
+        </a>
       </div>
     </div>
   );

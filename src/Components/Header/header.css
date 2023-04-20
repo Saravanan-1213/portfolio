@@ -53,9 +53,9 @@ color: #f64c08;
     cursor: pointer;
 }
 .header__rightButton{
-    background-color: #f64c08;
+    
     color: white;
     padding: 5px 20px ;
-    border-radius: 2px;
+    border-radius: 2px !important;
     cursor: pointer;
 } 
