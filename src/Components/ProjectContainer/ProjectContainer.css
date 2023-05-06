@@ -27,3 +27,19 @@
     margin-left: 200px;
 
 }
+.source__code{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 2;
+    padding-top: 20px;
+}
+
+.heading{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: chocolate;
+}

@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
 import "./TopContent.css";
-import Resume from "../../Resume/SaraVanan S.pdf";
 
 const TopContent = () => {
   return (
@@ -12,7 +11,10 @@ const TopContent = () => {
           I am a Full Stack Developer. I also make the website server more &
           more interactive with web animations.
         </p>
-        <a href={Resume}>
+        <a
+          href="https://drive.google.com/file/d/1UuhkTjY5YklYvjTgtkWVw0QSID5-jdu5/view"
+          target="_blank"
+        >
           <button className="topContent__downloadButton">Download CV</button>
         </a>
         <Link to="projects" smooth={true} duration={500}>
