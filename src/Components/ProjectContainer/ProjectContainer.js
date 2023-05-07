@@ -2,7 +2,6 @@ import React from "react";
 import { Element } from "react-scroll";
 import Project from "../Project/Project";
 import "./ProjectContainer.css";
-import { Box } from "@mui/material";
 
 const ProjectContainer = () => {
   const projects = [
