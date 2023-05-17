@@ -23,7 +23,7 @@ const ProjectContainer = () => {
       img: "https://st3.depositphotos.com/3259079/35899/v/600/depositphotos_358995556-stock-illustration-colleagues-talk-each-other-computer.jpg",
       title: "Zoom Clone",
       desc: "Zoom Clone is created using ReactJs, NodeJS",
-      link: "https://peppy-buttercream-ed733d.netlify.app",
+      link: "https://exquisite-starship-7a2ffb.netlify.app",
     },
   ];
   return (
