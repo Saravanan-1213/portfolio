@@ -2,7 +2,7 @@ import { IconButton } from "@mui/material";
 import React from "react";
 import { Element } from "react-scroll";
 import "./Contact.css";
-import InstagramIcon from "@mui/icons-material/Instagram";
+
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
 const Contact = () => {

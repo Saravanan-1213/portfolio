@@ -12,7 +12,8 @@ const TopContent = () => {
           more interactive with web animations.
         </p>
         <a
-          href="https://drive.google.com/file/d/1CR7Kw6R0tBaowIIrTBohEJYozsFe1REN/view?usp=share_link"
+          href="https://drive.google.com/file/d/1CEoKjMO-STlyyqEg8a9yj7rgIsqmmEcu/view?usp=share_link
+          "
           target="_blank"
         >
           <button className="topContent__downloadButton">Download CV</button>
