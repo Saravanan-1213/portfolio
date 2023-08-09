@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
-.projectContainer{
+.sourceCotainer{
     display: flex;
     flex-direction: column;
     color: white;
@@ -9,21 +9,18 @@
 }
 
 .projectContainer> h1{
+    align-items: center;
     padding-bottom: 15px;
 
 }
 
-.projectContainer > p{
-    padding-bottom: 25px;
-
-}
-
-.projectContainer__projects{
+.sourceCodes__projects{
     display:flex ;
     width: 43vw;
     margin-top: 50px;
     flex-wrap: wrap;
     align-items: center;
     margin-left: 200px;
+    
 
 }

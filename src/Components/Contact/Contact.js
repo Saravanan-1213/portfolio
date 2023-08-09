@@ -16,6 +16,9 @@ const Contact = () => {
         <p>
           GitHub Username: <span>@Saravanan-1213</span>
         </p>
+        <p>
+          Call : <span>7548825655</span>
+        </p>
         <div className="contact__icons">
           <a href="https://www.linkedin.com/in/saravanan-s-03622222a">
             <IconButton>

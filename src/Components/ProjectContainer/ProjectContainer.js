@@ -13,17 +13,28 @@ const ProjectContainer = () => {
     },
 
     {
-      img: "https://www.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-586719869.jpg",
-      title: "Movie APP",
-      desc: "This Movie App is created using ReactJs, NodeJS, MongoDB",
-      link: "https://cerulean-pudding-4c685a.netlify.app",
+      img: "https://images.unsplash.com/photo-1627907228175-2bf846a303b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      title: "Recipe APP",
+      desc: "This Recipe App is created using ReactJs, NodeJS, MongoDB",
+      link: "https://heroic-moonbeam-9beb35.netlify.app",
     },
-
     {
-      img: "https://st3.depositphotos.com/3259079/35899/v/600/depositphotos_358995556-stock-illustration-colleagues-talk-each-other-computer.jpg",
-      title: "Zoom Clone",
-      desc: "Zoom Clone is created using ReactJs, NodeJS",
-      link: "https://exquisite-starship-7a2ffb.netlify.app",
+      img: "https://d150u0abw3r906.cloudfront.net/wp-content/uploads/2022/04/image6-10.png",
+      title: "Media APP",
+      desc: "This Media App is created using ReactJs, NodeJS, MongoDB",
+      link: "https://bright-hummingbird-aab6a6.netlify.app",
+    },
+    {
+      img: "https://www.psu.com/wp/wp-content/uploads/2021/01/Zoom.jpg",
+      title: "Video Call APP",
+      desc: "This Video Call App is created using ReactJs, NodeJS, MongoDB",
+      link: "https://iridescent-licorice-9a0964.netlify.app",
+    },
+    {
+      img: "https://www.fusioninformatics.com/blog/wp-content/uploads/2019/08/Booking.com-like-Hotel-Booking-App-Development-Cost.jpg",
+      title: "Booking App",
+      desc: "This Booking App is created using ReactJs, MongoDB, NodeJS",
+      link: " https://master--ornate-lily-2bfc6c.netlify.app",
     },
   ];
   return (
@@ -45,31 +56,6 @@ const ProjectContainer = () => {
             />
           );
         })}
-      </div>
-
-      <div className="source__code">
-        <p className="heading">Source Code Links</p>
-        <a
-          className="calc"
-          href="https://glowing-wisp-80826e.netlify.app"
-          target="_blank"
-        >
-          Calcualator Source Code
-        </a>
-        <a
-          className="movie"
-          href="https://cerulean-pudding-4c685a.netlify.app"
-          target="_blank"
-        >
-          Movie App Source Code
-        </a>
-        <a
-          className="zoom"
-          href="https://github.com/Saravanan-1213/zoom__clone"
-          target="_blank"
-        >
-          Zoom clone Source Code
-        </a>
       </div>
     </Element>
   );
